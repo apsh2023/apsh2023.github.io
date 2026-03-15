@@ -1,5 +1,23 @@
 [
   {
+    "title": "ETL Data Pipeline with SQL",
+    "description": "Comprehensive ETL pipeline built during Nackademin studies. Extracts, transforms, and loads data from multiple sources using SQL, with focus on data quality and performance optimization.",
+    "technologies": ["SQL", "ETL", "Data Modeling", "MySQL", "Data Quality", "Performance Tuning"],
+    "github": "https://github.com/apsh2023/etl-data-pipeline",
+    "demo": null,
+    "image": null,
+    "featured": true
+  },
+  {
+    "title": "Power BI Dashboard Project",
+    "description": "Interactive business intelligence dashboard created with Power BI for data visualization and analytics. Includes data connections, DAX calculations, and comprehensive reporting features.",
+    "technologies": ["Power BI", "DAX", "Data Visualization", "Business Intelligence", "SQL", "Analytics"],
+    "github": "https://github.com/apsh2023/powerbi-dashboard",
+    "demo": null,
+    "image": null,
+    "featured": true
+  },
+  {
     "title": "Selenium Test Automation Framework",
     "description": "Comprehensive test automation framework built with Selenium WebDriver, Java, and TestNG. Features include page object model pattern, data-driven testing, cross-browser testing, and detailed reporting with Allure.",
     "technologies": ["Selenium", "Java", "TestNG", "Maven", "Allure", "Page Object Model"],
@@ -15,10 +33,10 @@
     "github": "https://github.com/apsh2023/api-testing-postman",
     "demo": null,
     "image": null,
-    "featured": true
+    "featured": false
   },
   {
-    "title": "Database Testing Framework",
+    "title": "Database Testing & Data Validation",
     "description": "Automated database testing framework for validating data integrity, performance, and CRUD operations. Built with Python and SQL, includes test data management and cleanup automation.",
     "technologies": ["Python", "SQL", "MySQL", "pytest", "Pandas", "Data Validation"],
     "github": "https://github.com/apsh2023/database-testing-framework",
@@ -31,24 +49,6 @@
     "description": "Behavior-driven development test suite using Cucumber with Gherkin syntax. Enables collaboration between technical and non-technical stakeholders through readable test scenarios.",
     "technologies": ["Cucumber", "Gherkin", "Java", "JUnit", "BDD", "Test Automation"],
     "github": "https://github.com/apsh2023/bdd-cucumber-tests",
-    "demo": null,
-    "image": null,
-    "featured": false
-  },
-  {
-    "title": "Performance Testing with JMeter",
-    "description": "Load and performance testing suite using Apache JMeter. Includes test plans for web applications, API endpoints, and database performance validation with detailed reporting.",
-    "technologies": ["JMeter", "Performance Testing", "Load Testing", "API Testing", "Monitoring"],
-    "github": "https://github.com/apsh2023/jmeter-performance-tests",
-    "demo": null,
-    "image": null,
-    "featured": false
-  },
-  {
-    "title": "Mobile App Testing Framework",
-    "description": "Cross-platform mobile testing framework using Appium for iOS and Android. Includes gesture testing, device compatibility checks, and integration with cloud testing platforms.",
-    "technologies": ["Appium", "Mobile Testing", "iOS", "Android", "Java", "TestNG"],
-    "github": "https://github.com/apsh2023/mobile-testing-appium",
     "demo": null,
     "image": null,
     "featured": false
