@@ -1,0 +1,58 @@
+# Site settings
+title: "Apurva Sharma - QA Engineer & Software Tester"
+description: "Quality Assurance Engineer specializing in manual and automation testing, API testing, and data analysis."
+baseurl: ""
+url: "https://apsh2023.github.io"
+
+# Author information
+author:
+  name: "Apurva Sharma"
+  email: "apurva.89.sharma@gmail.com"
+  linkedin: "https://www.linkedin.com/in/apurvasharma-b4a4a8207"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Include files
+include:
+  - _pages
+
+# Collections and defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# SEO and social
+social:
+  - name: email
+    url: "mailto:apurva.89.sharma@gmail.com"
+    icon: "fas fa-envelope"
+  - name: linkedin
+    url: "https://www.linkedin.com/in/apurvasharma-b4a4a8207"
+    icon: "fab fa-linkedin"
+  - name: github
+    url: "https://github.com/apsh2023"
+    icon: "fab fa-github"

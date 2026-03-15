@@ -1,0 +1,26 @@
+{
+  "name": "Apurva Sharma - QA Engineer Portfolio",
+  "short_name": "Apurva Portfolio",
+  "description": "Quality Assurance Engineer specializing in manual and automation testing, API testing, and data analysis.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["portfolio", "professional", "testing", "qa"],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/667eea/ffffff?text=AS",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/667eea/ffffff?text=AS",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Selenium Test Automation Framework",
+    "description": "Comprehensive test automation framework built with Selenium WebDriver, Java, and TestNG. Features include page object model pattern, data-driven testing, cross-browser testing, and detailed reporting with Allure.",
+    "technologies": ["Selenium", "Java", "TestNG", "Maven", "Allure", "Page Object Model"],
+    "github": "https://github.com/apsh2023/selenium-automation-framework",
+    "demo": null,
+    "image": null,
+    "featured": true
+  },
+  {
+    "title": "API Testing Suite with Postman",
+    "description": "Complete REST API testing solution using Postman collections and Newman for CI/CD integration. Includes automated test execution, environment management, and comprehensive test reporting.",
+    "technologies": ["Postman", "Newman", "REST API", "JSON", "JavaScript", "CI/CD"],
+    "github": "https://github.com/apsh2023/api-testing-postman",
+    "demo": null,
+    "image": null,
+    "featured": true
+  },
+  {
+    "title": "Database Testing Framework",
+    "description": "Automated database testing framework for validating data integrity, performance, and CRUD operations. Built with Python and SQL, includes test data management and cleanup automation.",
+    "technologies": ["Python", "SQL", "MySQL", "pytest", "Pandas", "Data Validation"],
+    "github": "https://github.com/apsh2023/database-testing-framework",
+    "demo": null,
+    "image": null,
+    "featured": false
+  },
+  {
+    "title": "BDD Cucumber Test Suite",
+    "description": "Behavior-driven development test suite using Cucumber with Gherkin syntax. Enables collaboration between technical and non-technical stakeholders through readable test scenarios.",
+    "technologies": ["Cucumber", "Gherkin", "Java", "JUnit", "BDD", "Test Automation"],
+    "github": "https://github.com/apsh2023/bdd-cucumber-tests",
+    "demo": null,
+    "image": null,
+    "featured": false
+  },
+  {
+    "title": "Performance Testing with JMeter",
+    "description": "Load and performance testing suite using Apache JMeter. Includes test plans for web applications, API endpoints, and database performance validation with detailed reporting.",
+    "technologies": ["JMeter", "Performance Testing", "Load Testing", "API Testing", "Monitoring"],
+    "github": "https://github.com/apsh2023/jmeter-performance-tests",
+    "demo": null,
+    "image": null,
+    "featured": false
+  },
+  {
+    "title": "Mobile App Testing Framework",
+    "description": "Cross-platform mobile testing framework using Appium for iOS and Android. Includes gesture testing, device compatibility checks, and integration with cloud testing platforms.",
+    "technologies": ["Appium", "Mobile Testing", "iOS", "Android", "Java", "TestNG"],
+    "github": "https://github.com/apsh2023/mobile-testing-appium",
+    "demo": null,
+    "image": null,
+    "featured": false
+  }
+]

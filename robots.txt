@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://apsh2023.github.io/sitemap.xml
+
+# Disallow crawling of admin or private areas
+# (Add any directories you want to exclude from search engines)
