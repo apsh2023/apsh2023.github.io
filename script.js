@@ -203,22 +203,20 @@ function initializeContactForm() {
     const contactForm = document.getElementById('contact-form');
     
     contactForm.addEventListener('submit', function(e) {
-        e.preventDefault();
-        
-        const formData = new FormData(contactForm);
         const submitButton = contactForm.querySelector('button[type="submit"]');
         
         // Show loading state
         submitButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Sending...';
         submitButton.disabled = true;
         
-        // Simulate form submission (replace with actual form handling)
+        // Let the form submit naturally to Formspree
+        // No e.preventDefault() - form will actually submit
+        
+        // Re-enable button after a delay (in case user stays on page)
         setTimeout(() => {
-            showNotification('Thank you for your message! I\'ll get back to you soon.', 'success');
-            contactForm.reset();
             submitButton.innerHTML = 'Send Message';
             submitButton.disabled = false;
-        }, 2000);
+        }, 3000);
     });
 }
 

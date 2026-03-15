@@ -8,7 +8,7 @@ url: "https://apsh2023.github.io"
 author:
   name: "Apurva Sharma"
   email: "apurva.89.sharma@gmail.com"
-  linkedin: "https://www.linkedin.com/in/apurvasharma-b4a4a8207"
+  linkedin: "https://www.linkedin.com/in/apurva-sharma-b4a4a8207/"
 
 # Build settings
 markdown: kramdown
@@ -51,7 +51,7 @@ social:
     url: "mailto:apurva.89.sharma@gmail.com"
     icon: "fas fa-envelope"
   - name: linkedin
-    url: "https://www.linkedin.com/in/apurvasharma-b4a4a8207"
+    url: "https://www.linkedin.com/in/apurva-sharma-b4a4a8207"
     icon: "fab fa-linkedin"
   - name: github
     url: "https://github.com/apsh2023"
