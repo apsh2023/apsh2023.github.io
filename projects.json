@@ -1,56 +1,20 @@
 [
   {
-    "title": "ETL Data Pipeline with SQL",
-    "description": "Comprehensive ETL pipeline built during Nackademin studies. Extracts, transforms, and loads data from multiple sources using SQL, with focus on data quality and performance optimization.",
-    "technologies": ["SQL", "ETL", "Data Modeling", "MySQL", "Data Quality", "Performance Tuning"],
-    "github": "https://github.com/apsh2023/etl-data-pipeline",
+    "title": "Job Data Engineering Pipeline",
+    "description": "Complete end-to-end data engineering project featuring web scraping, ETL pipeline, SQLite data warehouse, SQL analysis, and Power BI dashboard. Demonstrates full data lifecycle from collection to visualization for job market analysis.",
+    "technologies": ["Python", "ETL", "Web Scraping", "SQLite", "SQL", "Power BI", "Data Warehouse", "Data Analysis"],
+    "github": "https://github.com/apsh2023/job-data-engineering-pipeline",
     "demo": null,
     "image": null,
     "featured": true
   },
   {
-    "title": "Power BI Dashboard Project",
-    "description": "Interactive business intelligence dashboard created with Power BI for data visualization and analytics. Includes data connections, DAX calculations, and comprehensive reporting features.",
-    "technologies": ["Power BI", "DAX", "Data Visualization", "Business Intelligence", "SQL", "Analytics"],
-    "github": "https://github.com/apsh2023/powerbi-dashboard",
+    "title": "AI Weather Prediction for Hikers",
+    "description": "Machine learning application that predicts weather conditions specifically tailored for hiking activities. Uses AI algorithms to provide hikers with accurate weather forecasts and safety recommendations for outdoor adventures.",
+    "technologies": ["Python", "Machine Learning", "AI", "Weather API", "Data Science", "Predictive Modeling"],
+    "github": "https://github.com/apsh2023/AI-Weather-Prediction-for-Hikers",
     "demo": null,
     "image": null,
     "featured": true
-  },
-  {
-    "title": "Selenium Test Automation Framework",
-    "description": "Comprehensive test automation framework built with Selenium WebDriver, Java, and TestNG. Features include page object model pattern, data-driven testing, cross-browser testing, and detailed reporting with Allure.",
-    "technologies": ["Selenium", "Java", "TestNG", "Maven", "Allure", "Page Object Model"],
-    "github": "https://github.com/apsh2023/selenium-automation-framework",
-    "demo": null,
-    "image": null,
-    "featured": true
-  },
-  {
-    "title": "API Testing Suite with Postman",
-    "description": "Complete REST API testing solution using Postman collections and Newman for CI/CD integration. Includes automated test execution, environment management, and comprehensive test reporting.",
-    "technologies": ["Postman", "Newman", "REST API", "JSON", "JavaScript", "CI/CD"],
-    "github": "https://github.com/apsh2023/api-testing-postman",
-    "demo": null,
-    "image": null,
-    "featured": false
-  },
-  {
-    "title": "Database Testing & Data Validation",
-    "description": "Automated database testing framework for validating data integrity, performance, and CRUD operations. Built with Python and SQL, includes test data management and cleanup automation.",
-    "technologies": ["Python", "SQL", "MySQL", "pytest", "Pandas", "Data Validation"],
-    "github": "https://github.com/apsh2023/database-testing-framework",
-    "demo": null,
-    "image": null,
-    "featured": false
-  },
-  {
-    "title": "BDD Cucumber Test Suite",
-    "description": "Behavior-driven development test suite using Cucumber with Gherkin syntax. Enables collaboration between technical and non-technical stakeholders through readable test scenarios.",
-    "technologies": ["Cucumber", "Gherkin", "Java", "JUnit", "BDD", "Test Automation"],
-    "github": "https://github.com/apsh2023/bdd-cucumber-tests",
-    "demo": null,
-    "image": null,
-    "featured": false
   }
 ]
